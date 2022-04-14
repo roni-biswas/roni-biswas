@@ -1,11 +1,10 @@
 ### Hi, I'm Roni Biswas 😀
 <hr>
-
 1. I am Web Developer
 2. Love to write code
 3. Like to share my knowledge
-
 <br>
+
 ![Profile views](https://gpvc.arturio.dev/roni-biswas) 
 
 
