@@ -12,7 +12,7 @@
 
 ![Website Designer & Developer](https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/278479724_340830718028370_2799834971647531293_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Ys4chkOr4EIAX-pvUg5&_nc_ht=scontent.fdac90-1.fna&oh=00_AT-_V_1eKyRYFO5IlBlDjeg__1IoV4dw1p9bjkweGLmtqA&oe=625DCBF5)
 
-I am Roni Biswas from Bangladesh. I have experience on website development. I am familiar with HTML5, CSS3, Bootstrap, JavaScript, jQuery for front-end development and Core PHP, Ajax, WORDPRESS AND MYSQL Database for back-end development.
+I'm a Full Stack Web Developer mainly & I have good experience on Graphics Design too. I have 3 years experience on Wed Development. I always try to do my best and work with deadline respect. I am a hardworking developer and would like to work all the time. I used to work on Upwork.com.
 
 ### 👨&zwj;💻 Skills & Experiance:
 
