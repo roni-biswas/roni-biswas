@@ -23,11 +23,15 @@ I am Roni Biswas from Bangladesh. I have experience on website development. I a
 ✅ HTML5 / CSS3 / SASS / Bootstrap  
 ✅ Photoshop / Illustrator  
 
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=roni-biswas&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roni-biswas)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roni-biswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/designdevroni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/roni.biswas.48)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roni-biswas)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=roni-biswas&show_icons=true) 
   
