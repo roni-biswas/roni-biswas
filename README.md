@@ -14,7 +14,9 @@
 
 I am Roni Biswas from Bangladesh. I have experience on website development. I am familiar with HTML5, CSS3, Bootstrap, JavaScript, jQuery for front-end development and Core PHP, Ajax, WORDPRESS AND MYSQL Database for back-end development.
 
-👨&zwj;💻
+### 👨&zwj;💻 Skills & Experiance:
+
+<hr>
 
 Skills: HTML5 / CSS3 / Bootstrap5 / JavaScript / Ajax / PHP
 
