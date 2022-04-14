@@ -17,6 +17,7 @@ I am Roni Biswas from Bangladesh. I have experience on website development. I a
 ### 👨&zwj;💻 Skills & Experiance:
 
 <hr>
+
 ✅ JavaScript  
 ✅ PHP  
 ✅ HTML5 / CSS3 / SASS / Bootstrap  
@@ -26,9 +27,13 @@ I am Roni Biswas from Bangladesh. I have experience on website development. I a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roni-biswas)](https://github.com/anuraghazra/github-readme-stats)
 
+### Connect with me!:
 
+<hr>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roni-biswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/designdevroni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/roni.biswas.48)  
+<a href="https://www.facebook.com/roni.biswas.48/">
+  <img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="facebook" height="40" style="max-width: 100%;">
+  </a>
 
 
 
