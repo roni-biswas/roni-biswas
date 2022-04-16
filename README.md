@@ -49,7 +49,7 @@ I'm a Full Stack Web Developer mainly & I have good experience on Graphics Desig
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=roni-biswas&show_icons=true) 
   
   
- ### **👨&zwj;💻** Certification :
+### 🥇 Certification :
 
 <hr>
 
