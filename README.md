@@ -14,7 +14,7 @@
 
 I'm a Full Stack Web Developer mainly & I have good experience on Graphics Design too. I have 3 years experience on Wed Development. I always try to do my best and work with deadline respect. I am a hardworking developer and would like to work all the time. I used to work on Upwork.com.
 
-### 👨&zwj;💻 Skills & Experiance:
+### 🎯 Skills & Experiance:
 
 <hr>
 
@@ -27,7 +27,7 @@ I'm a Full Stack Web Developer mainly & I have good experience on Graphics Desig
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roni-biswas)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me!:
+### 💬 Connect with me!:
 
 <hr>
 
