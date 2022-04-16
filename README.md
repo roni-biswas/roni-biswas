@@ -53,6 +53,6 @@ I'm a Full Stack Web Developer mainly & I have good experience on Graphics Desig
 
 <hr>
 
-<a href="https://freecodecamp.org/certification/roni-biswas/responsive-web-design" style="background:#F05032;color:white;padding:5px;text-decoration:none;">
+<a href="https://freecodecamp.org/certification/roni-biswas/responsive-web-design">
 Responsive Web Design ✔️
 </a>
