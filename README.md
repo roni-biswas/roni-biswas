@@ -56,7 +56,6 @@ I'm a Full Stack Web Developer mainly & I have good experience on Graphics Desig
 <a href="https://freecodecamp.org/certification/roni-biswas/responsive-web-design">
 Responsive Web Design ✔️
 </a>
-<hr>
 
 <a href="https://freecodecamp.org/certification/roni-biswas/javascript-algorithms-and-data-structures">
 JavaScript Algorithms and Data Structures ✔️
