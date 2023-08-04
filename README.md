@@ -7,7 +7,7 @@
 
 <br>
 
-![Profile views]([https://gpvc.arturio.dev/roni-biswas](https://roni-biswas.github.io/My-Portfolio/)
+![Profile views](https://roni-biswas.github.io/My-Portfolio/)
 
 
 ![Website Designer & Developer](https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/278479724_340830718028370_2799834971647531293_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Ys4chkOr4EIAX-pvUg5&_nc_ht=scontent.fdac90-1.fna&oh=00_AT-_V_1eKyRYFO5IlBlDjeg__1IoV4dw1p9bjkweGLmtqA&oe=625DCBF5)
