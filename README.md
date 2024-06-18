@@ -32,7 +32,7 @@ I'm a Full Stack Web Developer mainly & I have good experience on Graphics Desig
 <hr>
 
 <a href="https://www.facebook.com/roni.biswas.48/">
-  <img src="[https://img.icons8.com/?size=100&id=38389&format=png&color=000000](https://img.icons8.com/?size=100&id=118497&format=png&color=000000)" alt="facebook" height="40" style="max-width: 100%;">
+  <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="facebook" height="40" style="max-width: 100%;">
   </a>
   
   <a href="https://github.com/roni-biswas">
