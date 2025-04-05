@@ -12,16 +12,16 @@
 
 ### <h1>Website Designer & Developer</h1>
 
-I'm a Full Stack Web Developer mainly & I have good experience on Graphics Design too. I have 3 years experience on Wed Development. I always try to do my best and work with deadline respect. I am a hardworking developer and would like to work all the time. I used to work on Upwork.com.
+I'm a Font-End Web Developer mainly & I have good experience on Problem Solving too. I have 3 years experience on Wed Development. I always try to do my best and work with deadline respect. I am a hardworking developer and would like to work all the time.
 
 ### 🎯 Skills & Experiance:
 
 <hr>
 
-✅ JavaScript  
-✅ PHP  
-✅ HTML5 / CSS3 / SASS / Bootstrap  
-✅ Photoshop / Illustrator  
+✅ HTML5 / CSS3
+✅ CSS Framwork -> Tailwind  
+✅ JavaScript
+✅ JS Library -> ReactJS
 
 <br>
 
