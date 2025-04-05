@@ -18,9 +18,9 @@ I'm a Font-End Web Developer mainly & I have good experience on Problem Solving 
 
 <hr>
 
-✅ HTML5 / CSS3
-✅ CSS Framwork -> Tailwind  
-✅ JavaScript
+✅ HTML5 / CSS3 <br>
+✅ CSS Framwork -> Tailwind  <br>
+✅ JavaScript <br>
 ✅ JS Library -> ReactJS
 
 <br>
