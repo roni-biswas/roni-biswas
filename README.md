@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=""  />
+  <img src="https://github.com/roni-biswas/roni-biswas/blob/main/githubBanner.jpeg"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 Building RateX, a review platform inspired by Trustpilot.<br>🔧 Exploring Node.js for backend development.<br>🌱 Learning Next.js and improving my React skills.<br>📚 Expanding my expertise in Problem Solving</p>
+<p align="left">💻 Building ProFast, a review platform inspired by eCourier<br>🔧 Exploring Node.js for backend development.<br>🌱 Learning Next.js and improving my React skills.<br>📚 Expanding my expertise in Problem Solving</p>
 
 ###
 
